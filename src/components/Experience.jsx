@@ -1,5 +1,5 @@
-import { EXPERIENCES } from "../constants"
-import { motion } from "framer-motion"
+import { EXPERIENCES } from "../constants";
+import { motion } from "framer-motion";
 
 const Experience = () => {
   return (
@@ -10,7 +10,7 @@ const Experience = () => {
         transition={{ duration: 0.5 }}
         className="my-20 text-center text-4xl"
       >
-        Experience
+        Education
       </motion.h1>
       <div>
         {EXPERIENCES.map((experience, index) => (
@@ -50,6 +50,6 @@ const Experience = () => {
       </div>
     </div>
   );
-}
+};
 
-export default Experience
+export default Experience;

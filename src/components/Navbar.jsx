@@ -10,13 +10,19 @@ const Navbar = () => {
         <img className="mx-2 w-10" src={logo} alt="logo" />
       </div>
       <div className="m-8 flex items-center justify-center gap-4 text-2xl">
-        <FaLinkedin />
+        <a
+          href="https://linkedin.com/in/vita-tri-utami"
+          target="_black"
+          rel="noopener"
+        >
+          <FaLinkedin />
+        </a>
         <FaGithub />
         <FaInstagram />
         <FaSquareXTwitter />
       </div>
     </nav>
-  )
+  );
 }
 
 export default Navbar
