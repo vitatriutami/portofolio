@@ -10,7 +10,7 @@ export const ABOUT_TEXT = `I am a dedicated and versatile full stack developer w
 export const EXPERIENCES = [
   {
     year: "March 2023 - Present",
-    role: "Full Stack Web Developer",
+    role: "Full Stack Web Development",
     company: "Devscale Indonesia",
     description: `Led a team in developing and maintaining web applications using JavaScript, React.js, and Node.js. Implemented RESTful APIs and integrated with MongoDB databases. Collaborated with stakeholders to define project requirements and timelines.`,
     technologies: ["Javascript", "React.js", "Next.js", "mongoDB"],
@@ -24,7 +24,7 @@ export const EXPERIENCES = [
   },
   {
     year: "Aug 2022 - Apr 2023",
-    role: "Full Stack Web Developer",
+    role: "Full Stack Web Development",
     company: "Binar Academy",
     description: `Developed and maintained web applications using JavaScript, React.js, and Node.js. Designed and implemented RESTful APIs for data communication. Collaborated with cross-functional teams to deliver high-quality software products on schedule.`,
     technologies: ["Python", "Svelte", "Three.js", "Postgres"],
