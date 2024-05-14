@@ -1,4 +1,3 @@
-import logo from "../assets/kevinRushLogo.png";
 import { FaLinkedin, FaGithub, FaInstagram } from "react-icons/fa";
 import { FaSquareXTwitter } from "react-icons/fa6";
 
